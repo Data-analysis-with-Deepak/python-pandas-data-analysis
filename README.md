@@ -144,4 +144,8 @@ GitHub: [Data-analysis-with-Deepak](https://github.com/Data-analysis-with-Deepak
 
 ---
 
+<<<<<<< HEAD
 ⭐ If you find this repository useful, feel free to explore the notebooks and follow my learning journey!
+=======
+⭐ If you find this repository useful, feel free to explore the notebooks and follow my learning journey!
+>>>>>>> ac5ec02081f5ec4298d5daea0b4ee38d11071034
